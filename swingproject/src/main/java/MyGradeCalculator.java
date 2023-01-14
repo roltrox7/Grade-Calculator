@@ -83,16 +83,16 @@ public class MyGradeCalculator extends javax.swing.JFrame {
 
         jLabel5.setText("SEM");
 
-        jTextField1.setText("jTextField1");
+        jTextField1.setText("");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
             }
         });
 
-        jTextField2.setText("jTextField2");
+        jTextField2.setText("");
 
-        jTextField3.setText("jTextField3");
+        jTextField3.setText("");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField3ActionPerformed(evt);
@@ -172,19 +172,19 @@ public class MyGradeCalculator extends javax.swing.JFrame {
             }
         });
 
-        jTextField6.setText("jTextField6");
+        jTextField6.setText("");
 
-        jTextField7.setText("jTextField7");
+        jTextField7.setText("");
 
-        jTextField8.setText("jTextField8");
+        jTextField8.setText("");
 
-        jTextField9.setText("jTextField9");
+        jTextField9.setText("");
 
-        jTextField10.setText("jTextField10");
+        jTextField10.setText("");
 
-        jTextField11.setText("jTextField11");
+        jTextField11.setText("");
 
-        jTextField12.setText("jTextField12");
+        jTextField12.setText("");
 
         jLabel16.setText("SUBJECT MARKS");
 
@@ -192,10 +192,9 @@ public class MyGradeCalculator extends javax.swing.JFrame {
 
         jLabel18.setText("Subject 10");
 
-        jTextField13.setText("jTextField13");
+        jTextField13.setText("");
 
-        jTextField14.setText("jTextField14");
-
+        jTextField14.setText("");
         jButton1.setText("Calculate");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
